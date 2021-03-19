@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Running on Gavin_test_1 branch
+          Page running successfully
+          Deployed via npm run deploy command onto homepage properties
         </p>
         <a
           className="App-link"

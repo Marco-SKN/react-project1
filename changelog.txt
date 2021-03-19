@@ -1,2 +1,10 @@
 1. Created gavin_test_1 branch + created Changelog.txt file to keep track of each update
 1.1 Renamed Changelog.txt to CHANGELOG.txt
+
+
+
+
+
+
+References
+https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f

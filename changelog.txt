@@ -1,1 +1,2 @@
-1) Created gavin_test_1 branch
+1. Created gavin_test_1 branch + created Changelog.txt file to keep track of each update
+1.1 Renamed Changelog.txt to CHANGELOG.txt
